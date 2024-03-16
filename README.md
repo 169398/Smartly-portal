@@ -1,4 +1,4 @@
-# Spana: Leave Management App
+# Smartly: Leave Management App
 
 ### Usage
 - Users can submit leave requests
@@ -7,12 +7,8 @@
 - Everyone can view the Organisational Calendar and see upcoming events
 - Admins can add settings and edit balances
 
-### Author 
-- Prince De Mawo 
 
-<img src="/spanaOG.png" alt="project-Img" />
 
-## <a href="https://youtu.be/F_d3TviPLOk?si=ACY13MBcpQEbg1wb"> Video Tutorial </a>
 
 ### Tech-Stack
 The app was built using the following technologies:
@@ -28,7 +24,7 @@ The app was built using the following technologies:
 
 
 #### Clone the repo
-`https://github.com/de-mawo/spana-yt.git `
+`https://github.com/169398/smartly-portal.git `
 
 Install packages
 `yarn `
